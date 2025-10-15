@@ -4,3 +4,6 @@ from django.test import TestCase
 
 class test_class():
     pass
+
+class test_class2():
+    pass
